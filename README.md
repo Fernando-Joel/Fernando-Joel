@@ -11,10 +11,10 @@
 
 <p align="center">
   <a href="mailto:add.ferjum200@outlook.com">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://www.linkedin.com/in/fernando-joel-uribe-martínez/">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 
