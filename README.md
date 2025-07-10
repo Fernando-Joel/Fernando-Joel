@@ -13,7 +13,7 @@
   <a href="mailto:add.ferjum200@outlook.com">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="linkedin.com/in/fernando-joel-uribe-martínez/">
+  <a href="https://www.linkedin.com/in/fernando-joel-uribe-martínez/">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
