@@ -62,3 +62,16 @@
 <img align="left" src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" /> <img align="left" src="https://img.shields.io/badge/DevOps-0A0A0A?style=for-the-badge&logo=devops&logoColor=white" />
 <br>
 
+## 📊 Profile Statistics
+
+<div align=left>
+
+<a href="https://github.com/Fernando-Joel">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fernando-Joel&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://streak-stats.demolab.com?user=Fernando-Joel&theme=radical" alt="GitHub Streak" />
+</a>
+<br>
+</div>
+
+## 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=Fernando-Joel&theme=radical" />
